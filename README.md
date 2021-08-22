@@ -24,11 +24,24 @@ to predict credit risk.
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of 
 all six machine learning models. Use screenshots of your outputs to support your results.
 
+* The first method used to calculate the balanced accuracy, precision and recall was the Naive Randond Oversampling method 
+
 ![Credit_Risk_Analysis](./cm_1_Naive.png)
+
+* The second method used to calculate the balanced accuracy, precision and recall was the SMOTE Oversampling method 
+
 ![Credit_Risk_Analysis](./cm2_SMOTE.png)
+
+* The first method used to calculate the balanced accuracy, precision and recall was the Undersampling method 
 ![Credit_Risk_Analysis](./cm3_under.png)
+
+* The second method used to calculate the balanced accuracy, precision and recall was the Combination (Over and Under) Sampling method 
 ![Credit_Risk_Analysis](./cm4_combo.png)
+
+* The second method used to calculate the balanced accuracy, precision and recall was the Ensemble Balanced Forest Classifier method 
 ![Credit_Risk_Analysis](./cm5_brf.png)
+
+* The second method used to calculate the balanced accuracy, precision and recall was the Easy Ensemble AdaBoost method 
 ![Credit_Risk_Analysis](./cm6_eec.png)
 
 
